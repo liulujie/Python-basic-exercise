@@ -1,5 +1,5 @@
 '''
-利用if语句实现猜数字的小游戏
+利用if语句实现猜数字的小游戏.
 '''
 num = 10
 print('Guess one number?')
