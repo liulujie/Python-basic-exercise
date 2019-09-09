@@ -7,6 +7,7 @@ while循环语句练习
 #     print('please input:')#满足条件后输出该语句
 #     a = int(input ())#接收输入的结果
 # print('over!')#不满足时输出
+
 num = 10
 print('Guess what I think?')
 bingo = False  # 设置变量bingo值为False
