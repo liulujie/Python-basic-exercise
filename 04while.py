@@ -19,4 +19,4 @@ while bingo == False:  # 当bingo值为False时执行循环体
         print('too small')
     else:
         print('BINGO!')
-        bingo = True  # 回答正确事改变bingo的值结束循环
+        bingo = True  # 回答正确时改变bingo的值,结束循环
